@@ -1,0 +1,7 @@
+.MusicRows :nth-child(odd){
+    background: #1c7430;
+}
+
+.MusicRows :nth-child(even){
+    background: #4CAF50;
+}
